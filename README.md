@@ -25,4 +25,4 @@ The purpose of this analysis is to identify risky loan applicants and reduce cre
 
 ## Files Included
 - **Rajesh_Mishra.ipynb:** Jupyter notebook with the complete analysis code.
-- **LendingClubCaseStudy.pptx:** PowerPoint presentation summarizing the analysis and findings.
+- **LendingClubCaseStudy.pdf:** PowerPoint presentation summarizing the analysis and findings.
